@@ -1,0 +1,13 @@
+{
+  "appId": "com.test.app",
+  "appName": "capacitor-video-test",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist/capacitor-video-test",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
